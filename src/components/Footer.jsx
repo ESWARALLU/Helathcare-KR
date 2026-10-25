@@ -48,7 +48,6 @@ export default function Footer() {
           <ul className="mt-4 space-y-2 text-sm text-teal-100/80">
             <li>Hyderabad &middot; Rajahmundry &middot; Vijayawada</li>
             <li>drgsmurthy@yahoo.co.in</li>
-            <li>+91 98493 30120</li>
           </ul>
           <Link to="/contact" className="btn-primary mt-5 bg-sage-500 hover:bg-sage-600">
             Request a Consultation

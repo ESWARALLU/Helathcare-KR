@@ -170,16 +170,6 @@ export default function Contact() {
             </h3>
             <ul className="mt-4 space-y-4 text-sm text-teal-900/80">
               <li className="flex gap-3">
-                <Icon name="phone" className="h-5 w-5 flex-none text-teal-600" />
-                <span>+91 98493 30120</span>
-              </li>
-              <li className="flex gap-3">
-                <Icon name="chat" className="h-5 w-5 flex-none text-teal-600" />
-                <a href="https://wa.me/919849330120" target="_blank" rel="noreferrer" className="hover:text-teal-700">
-                  WhatsApp Care Enquiry
-                </a>
-              </li>
-              <li className="flex gap-3">
                 <Icon name="clipboard" className="h-5 w-5 flex-none text-teal-600" />
                 <span>drgsmurthy@yahoo.co.in</span>
               </li>

@@ -47,7 +47,6 @@ const corporateDetails = [
     value: 'RS No-210, Door No. 81-28-19, Flat No D4, Bharathi Residence, Kanchana Nagar, JN Road, Rajahmundry, Andhra Pradesh, India – 533101',
   },
   { label: 'Email', value: 'drgsmurthy@yahoo.co.in' },
-  { label: 'Phone', value: '+91 98493 30120' },
 ]
 
 const values = [
